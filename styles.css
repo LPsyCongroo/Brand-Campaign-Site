@@ -219,11 +219,11 @@ footer{
 		background-image: url(smallSplash.jpg);
 	}
 	.leftH{
-		width: 90%;
+		width: 80%;
 	}
 	#hamburger{
 		color: white;
-		width: 10%;
+		width: 20%;
 		font-size: 3rem;
 		line-height: 5rem;
 		display: block;
@@ -231,6 +231,7 @@ footer{
 	}
 	#hamburger i{
 		color: white;
+		text-indent:;
 	}
 	.social {
 		font-size: 3rem;
